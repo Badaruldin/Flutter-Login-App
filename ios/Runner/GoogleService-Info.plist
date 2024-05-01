@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>787450222363-qfu54gea57l8lpluqaj8d268hvum45e2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdirJujCXtx_-evNU2lYlM2_QTyMSQsZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>787450222363</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterLoginApp</string>
+	<key>PROJECT_ID</key>
+	<string>check-application-cityguide</string>
+	<key>STORAGE_BUCKET</key>
+	<string>check-application-cityguide.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:787450222363:ios:70440a9726196e31d0a5be</string>
+	<key>DATABASE_URL</key>
+	<string>https://check-application-cityguide-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
